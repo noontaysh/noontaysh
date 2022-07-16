@@ -1,8 +1,8 @@
-- Hi there 👋
-- Learning Front-End 🌱
-- Skills: HTML/CSS coding, Blender, Adobe PS, Adobe XD, Sony Vegas, Unity, Magica Voxel 🔭
-- My link tree > 📫
-- Adore "American Psycho" movie n often write in small letters, it's easier ⚡
+- 👋 Hi there 
+- 🌱 Learning Front-End 
+- 🔭 Skills: HTML/CSS coding, Blender, Adobe PS, Adobe XD, Sony Vegas, Unity, Magica Voxel 
+- 📫 My link tree > https://linktr.ee/noontaysh
+- ⚡ Adore "American Psycho" movie n often write in small letters, it's easier 
 
 <!--
 **noontaysh/noontaysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
