@@ -7,6 +7,6 @@
 
 
 <div align="center"> 
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=noontaysh" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=noontaysh&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=noontaysh&layout=compact" />
 </div>
