@@ -2,7 +2,7 @@
 
 - 🌱 Currently learning JavaScript
 - 🔭 Skills: HTML/CSS coding, Blender, Adobe PS, Adobe XD, Sony Vegas, Unity, Magica Voxel 
-- 📫 My link tree > https://linktr.ee/noontaysh
+- 📫 All my socials > https://linktr.ee/noontaysh
 - ⚡ Adore "American Psycho" movie
 
 <!-- align="center" width=400 -->
