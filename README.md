@@ -13,6 +13,6 @@
 
 <div align="center">
   <a href="https://linktr.ee/noontaysh">
-    <img src="https://img.shields.io/linktree/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=3572A5">
+    <img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=3572A5">
   </a>
 </div>
