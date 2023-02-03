@@ -3,7 +3,10 @@
 
 * 🌱 Currently developing own mindset & enhance my React skills 
 * 🔭 Skills: 
-  - React, JavaScript, HTML/CSS(SCSS, LESS preprocessors), know basics of Node.js and in addition it's easy to me work with adobe apps
+  - React
+  - JavaScript 
+  - HTML/CSS(SCSS, LESS preprocessors)
+_know basics of Node.js and in addition it's easy to me work with adobe apps_
 * 📫 To contact me, it will be easier for you to go to the following link > https://linktr.ee/noontaysh
 
 <!-- align="center" width=400 -->
