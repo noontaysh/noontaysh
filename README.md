@@ -7,7 +7,7 @@ I'm a Software Developer with a strong background in the field, boasting over 2 
 
 ```text
 JavaScript | React JS | TypeScript | Node JS | EJS | React Native | MongoDB |
-JQuery | Phyton | Rest API | HTML | SCSS | CSS | Tailwind CSS | CSS | Git  
+JQuery | Phyton | Rest API | HTML | SCSS | CSS | Tailwind CSS | Git  
 ```
 
 <details>
